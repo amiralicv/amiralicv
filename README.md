@@ -2,7 +2,7 @@
 
 Learning computer vision and robotics.
 
-## Focus
+## Interested in
 - Computer vision (OpenCV, PyTorch, YOLO)
 - Robotics (ROS 2, Arduino / ESP32)
 - Python, C++
