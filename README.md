@@ -1,4 +1,4 @@
-# Amirali
+# Amirali Abbasi
 
 Learning computer vision and robotics.
 
