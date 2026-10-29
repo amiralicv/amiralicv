@@ -9,6 +9,10 @@ and I'm currently focused on backend systems with NestJS and PostgreSQL.
 
 **Stack:** TypeScript · Next.js · Node.js
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,py" alt="TypeScript, Next.js, Node.js, Python" />
+</p>
+
 [amiraliabbasi.ir](https://amiraliabbasi.ir) · [LinkedIn](https://www.linkedin.com/in/amirali-abbasi)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0773d,100:1e293b&height=100&section=footer" width="100%" />
