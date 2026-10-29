@@ -1,27 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:f0773d&height=160&section=header&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F0773D&center=true&vCenter=true&width=620&lines=Python+%26+FastAPI+Backend+Developer;Exploring+Computer+Vision;Interested+In+AI+%C2%B7+ML+%C2%B7+Deep+Learning" alt="Typing intro" />
-</p>
+# Amirali Abbasi
 
-### 👋 About me
+Software developer in Tehran. I build web products with TypeScript,
+and I'm currently focused on backend systems with NestJS and PostgreSQL.
 
-- ⚡ I build **backend services and APIs with Python and FastAPI**
-- ☕ Background in **Java**, building production backend features and external API integrations
-- 👁️ Exploring **computer vision**: teaching machines to understand images and video
-- 🧠 Deeply curious about **AI, machine learning and deep learning**, and the math underneath them
+**Background:** started in Java and Springboot;
 
-### 🛠️ Tech I work with
+**Stack:** TypeScript · Next.js · Node.js
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git&theme=dark" />
-</p>
-
-**Exploring**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,cpp&theme=dark" />
-</p>
+[amiraliabbasi.ir](https://amiraliabbasi.ir) · [LinkedIn](https://www.linkedin.com/in/amirali-abbasi)
 
 ### 📊 GitHub activity
 
