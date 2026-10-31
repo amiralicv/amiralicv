@@ -4,23 +4,6 @@
 
 <br/>
 
-### 🔨 Currently building
-
-**[jewelry-visual-search](https://github.com/amiralicv/jewelry-visual-search)**: search a jewelry catalog by photo or description with CLIP embeddings and pgvector, filtered by karat, weight and live gold price. Next up: an LLM assistant with tool calling.
-
-`FastAPI` `PostgreSQL` `pgvector` `CLIP` `Redis` `Docker`
-
-<br/>
-
-### 💼 Experience
-
-| | Role | |
-|---|---|---|
-| 🏦 | **Backend Developer Intern (Java)** · Taban Tech | KYC facial-recognition, payment-gateway and inquiry integrations in Spring Boot; rule-based SMS loyalty notifications |
-| 💍 | **Backend Developer (Contract)** · parvazigold | Backend for a gold, coin and Tether trading platform: order flow with admin approval, PostgreSQL |
-
-<br/>
-
 ### 🧰 Stack
 
 **Daily**
@@ -29,7 +12,7 @@
 
 **Also worked with**
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs&perline=8" alt="Java, Spring Boot, Next.js" />
+<img src="https://skillicons.dev/icons?i=java,spring,nextjs&perline=8" alt="Java, Spring Boot, Next.js" />
 
 <br/>
 
