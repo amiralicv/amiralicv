@@ -2,8 +2,6 @@
 
 **Backend developer in Tehran.** I build APIs with **Python and FastAPI**, after working on **Java and Spring Boot** services for payments, KYC and a gold trading platform. I'm moving closer to AI: LLM-powered backends, and computer vision, which I'm curious about and exploring alongside my M.Sc. in Software Engineering.
 
-<br/>
-
 ### 🧰 Stack
 
 **Daily**
@@ -14,8 +12,6 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,nextjs&perline=8" alt="Java, Spring Boot, Next.js" />
 
-<br/>
-
 ### 📚 Learning now
 
 - **Backend depth:** PostgreSQL transactions, locking and indexing; software architecture and system design
@@ -23,18 +19,8 @@
 - **Under the hood:** C and memory management
 - **Curious about:** computer vision with OpenCV
 
-<br/>
-
 ### 📫 Find me
 
 [![Website](https://img.shields.io/badge/amiraliabbasi.ir-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amiraliabbasi.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-abbasi)
 [![Email](https://img.shields.io/badge/abbasigudarzi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasigudarzi@gmail.com)
-
-<!--
-  Turn these on after a few months of regular commits, not before.
-  Low numbers in big cards hurt more than they help.
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amiralicv&show_icons=true&hide_border=true&theme=transparent" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralicv&layout=compact&hide_border=true&theme=transparent" />
--->
