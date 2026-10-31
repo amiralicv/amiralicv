@@ -29,7 +29,7 @@
 
 **Also worked with**
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs&perline=8" alt="Java, Spring Boot, TypeScript, Next.js" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs&perline=8" alt="Java, Spring Boot, Next.js" />
 
 <br/>
 
@@ -44,9 +44,9 @@
 
 ### 📫 Find me
 
-[![amiraliabbasi.ir](https://img.shields.io/badge/amiraliabbasi.ir-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amiraliabbasi.ir)
-[![linkedin.com/in/amirali-abbasi](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-abbasi)
-[![abbasigudarzi@gmail.com](https://img.shields.io/badge/abbasigudarzi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasigudarzi@gmail.com)
+[![Website](https://img.shields.io/badge/amiraliabbasi.ir-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amiraliabbasi.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-abbasi)
+[![Email](https://img.shields.io/badge/abbasigudarzi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasigudarzi@gmail.com)
 
 <!--
   Turn these on after a few months of regular commits, not before.
